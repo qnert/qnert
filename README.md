@@ -7,7 +7,9 @@
   
 - ⚡ Fun fact: ...
 
-<!---
-qnert/qnert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Languages:
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![Shell](https://img.shields.io/badge/-Shell-blue?style=flat&logo=gnu-bash)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
