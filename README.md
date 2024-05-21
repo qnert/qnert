@@ -4,6 +4,8 @@
   
 - 📫 How to reach me qnertsimon@gmail.com
 
+- 🚀 trying to improve and deepen my programming skills with ![Leet Code](https://leetcode.com/u/qnert/)
+
 ## Languages:
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
