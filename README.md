@@ -4,7 +4,7 @@
   
 - 📫 How to reach me qnertsimon@gmail.com
 
-- 🚀 trying to improve and deepen my programming skills with [Leet Code](https://leetcode.com/qnert/)
+- 🚀 trying to improve and deepen my programming skills with [Leet Code](https://leetcode.com/)
 
 ## Languages:
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
@@ -12,3 +12,4 @@
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/-Shell-blue?style=flat&logo=gnu-bash)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
