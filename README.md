@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Simon Kunert
+
+- 🎊 I finished the core curriculum at 42 Heilbronn
   
-- 🌱 I’m currently studying softwareengineering/coding at 42 Heilbronn
+- 🌱 I’m currently enrooled in a computer science course of studies at RWTH Aachen
   
 - 📫 How to reach me qnertsimon@gmail.com
 
