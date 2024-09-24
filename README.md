@@ -2,7 +2,7 @@
 
 - 🎊 I finished the core curriculum at 42 Heilbronn
   
-- 🌱 I’m currently enrooled in a computer science course of studies at RWTH Aachen
+- 🌱 I’m currently enrolled in a computer science course of studies at RWTH Aachen
   
 - 📫 How to reach me qnertsimon@gmail.com
 
