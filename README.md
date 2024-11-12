@@ -15,3 +15,5 @@
 ![Shell](https://img.shields.io/badge/-Shell-blue?style=flat&logo=gnu-bash)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+
